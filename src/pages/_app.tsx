@@ -1,4 +1,4 @@
-import { ResetCSS } from "../modules/reset"
+import { ResetCSS } from "~/modules/reset"
 
 const App = ({ Component, pageProps }) => {
   return (
